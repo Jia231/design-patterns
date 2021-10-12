@@ -1,0 +1,9 @@
+Elementos a considerar
+ - Interface Manufactura va a tener un metodo llamado producirCoche
+ - ManufacturaLexus va a implementar esa interface de tipo IManufactura y va a tener su
+ implementacion de producirCoche
+  - ManufacturaNissan va a implementar esa interface de tipo IManufactura y va a tener su
+  implementacion de producirCoche
+  - Clase Fabrica va a tener una propiedad de tipo manufactura llamada manufactura que puede ser
+  ManufacturaNissan o ManufacturaLexus y la fabrica va a tener un metodo llamado fabricarCoche que
+  va a llamar manufactura.producirCoche()

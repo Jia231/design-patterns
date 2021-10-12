@@ -1,0 +1,2 @@
+Elementos a considerar
+ - Creamos una fabrica que crea diferentes tip
